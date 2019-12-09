@@ -1,6 +1,8 @@
 # Firehouse-0ptimus-Battleground-December-2019
 Michigan, Pennsylvania, and Wisconsin Battleground Poll Conducted in December 2019
 
+<a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Battleground-December-2019/blob/master/Firehouse_0ptimus_Horserace_December_Results.pdf">Polling Memo</a>
+
 
 <a href="https://github.com/optimus-forecasting-and-polling/Firehouse-0ptimus-Battleground-December-2019/blob/master/FH_0ptimus_December_2019_Methodology_Statement.pdf">Methodology Statement</a>
 
